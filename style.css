@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 body, #entry {
-  background: #8800FF;
+  background: #008844;
   color: #eee;
 }
 body, table {
@@ -27,7 +27,7 @@ a { text-decoration: none; color: #888; }
 a:hover { text-decoration: underline; color: #aaa; }
 
 #loading, #connect {
-  background: #22252a;
+  background: #444488;
   position: fixed;
   top: 0;
   left: 0;
