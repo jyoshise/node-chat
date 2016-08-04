@@ -1,3 +1,5 @@
 applications:
-- name: jyoshise-node-chat
+- name: chat-test
+  host: chattest
+  domain: hcf.uswest2.stackato.net
   memory: 64M
